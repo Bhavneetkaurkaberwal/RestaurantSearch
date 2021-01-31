@@ -15,5 +15,14 @@ The app provides a list of restaurants in Toronto, ON, Canada by default. You ca
     OR
     <br>
    Use 'Expo Go' App from Google Playstore/App Store to run the app on your device.
+   
+<b>Screenshots</b>
+<p align="center">
+  <img src="https://github.com/Bhavneetkaurkaberwal/RestaurantSearch/blob/master/screenshots/HomeScreen.jpg" width="350" title="HomeScreen">
+  <img src="https://github.com/Bhavneetkaurkaberwal/RestaurantSearch/blob/master/screenshots/SearchByCuisine(Pasta).jpg" width="350" title="Search by cuisine (pasta)">
+  <img src="https://github.com/Bhavneetkaurkaberwal/RestaurantSearch/blob/master/screenshots/SearchByCuisine(Pizza).jpg" width="350" title="Search by cuisine (pizza)">
+  <img src="https://github.com/Bhavneetkaurkaberwal/RestaurantSearch/blob/master/screenshots/SearchByLocation(Toronto).jpg" width="350" title="Search by location (Toronto)">
+  <img src="https://github.com/Bhavneetkaurkaberwal/RestaurantSearch/blob/master/screenshots/RestaurantDetails.jpg" width="350" title="Restaurant Details">  
+</p>
 
 
